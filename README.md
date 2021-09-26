@@ -1,4 +1,6 @@
-# Service Circle 
+# MAD Group Project - "Service Circle"
+
+For the second year second semester, Mobile Application Development modules' (IT2010) group project, we have decided to create an app where users can find and hire skilled professionals from one single place. These skilled professionals are Plumbers, Electricians, Housemaids etc. We have named the app as "Service Circle".
 
 ## Introduction to the project
                                           
@@ -13,7 +15,7 @@ We have identified four main functionalities in the system. They are,
 4.	Notification and Feedback Management
 
 
-## Following shows how we have divided our work load among the group members,
+## Workload distribution among the group members
 
 •	User Management - Ajward(IT20192396)
 
