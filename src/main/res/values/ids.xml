@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="order_user_name" type="id" />
+    <item name="order_phone_number" type="id" />
+    <item name="order_total_price" type="id" />
+    <item name="order_date_time" type="id" />
+    <item name="order_address_city" type="id" />
+    <item name="show_all_product_btn" type="id" />
+    <item name="cart_list" type="id" />
+    <item name="total_price" type="id" />
+    <item name="next_btn" type="id" />
+    <item name="msg1" type="id" />
+</resources>
